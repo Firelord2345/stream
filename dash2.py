@@ -8,7 +8,7 @@ import category_encoders as ce
 import plotly.express as px
 
 # Load your dataset
-data = pd.read_excel(r"Walmart3.xlsx")
+data = pd.read_excel(r"walmart3.xlsx")
 
 # Data preprocessing
 date_format = '%d/%m/%Y'
